@@ -4,7 +4,7 @@ You can download the dataset in pickle format from https://drive.google.com/open
 
 ## Test
 
-Our pretrained weights can be found in https://drive.google.com/open?id=1-Yn_9GMjeu-d8gLZ26t3bvH6yX_BMFfm, you can unzip it and place it into ./logs.
+Our pretrained weights can be found in https://drive.google.com/open?id=1TeJw415uNGwmiOT1v5iLIxcGNFWGriW4, you can unzip it and place it into ./logs.
 
 Simply run:
 
